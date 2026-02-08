@@ -1,4 +1,4 @@
-projet réalisé par : Lamiae Elhazzaz et Ayman El Afari
+projet réalisé par : Lamiae Elhazzaz
 
 Application de Gestion des Livres Basée sur les Microservices
 Description
